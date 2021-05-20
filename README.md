@@ -7,6 +7,6 @@
 ## Workplaces
 
 ### OverseenIO LIMITED, a software company located in the United Kingdom
-### RuneSoftware LLC, a software company located in United States
+### Rune Software LLC, a software company located in United States
 ### Gamma Digital, a freelancing company located in Slovenia
 
