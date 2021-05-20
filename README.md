@@ -1,12 +1,12 @@
 <h2>itselviz, a fullstack developer.</h2>
 
-<p>Proficient in JavaScript, Node, React, Express, Electron, Tailwind, Bootstrap, Next and Mongoose</h1>
+<p>Proficient in JavaScript, Node, React, Express, Electron, Tailwind, Bootstrap, Next and Mongoose</p>
 
 **Work with me / [Gamma Digital](https://discord.gg/3fUgUAvFJj)**
 
 ## Workplaces
 
-### OverseenIO LIMITED, a software company located in the United Kingdom
-### Rune Software LLC, a software company located in United States
-### Gamma Digital, a freelancing company located in Slovenia
+<p><b>OverseenIO LIMITED</b>, a software company located in the United Kingdom</p>
+<p><b>Rune Software LLC</b>, a software company located in United States</p>
+<p><b>Gamma Digital</b>, a freelancing company located in Slovenia</p>
 
