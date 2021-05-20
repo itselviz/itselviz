@@ -1,6 +1,6 @@
 <h2>itselviz, a fullstack developer.</h2>
 
-<p>Proficient in JavaScript / Node.js, React.js, Electron, Tailwind.css, Next.js and MongoDB</h1>
+<p>Proficient in JavaScript / Node.js, React.js, Express.js, Electron, Tailwind.css, Next.js and MongoDB</h1>
 
 **Work with me / [Gamma Digital](https://discord.gg/3fUgUAvFJj)**
 
