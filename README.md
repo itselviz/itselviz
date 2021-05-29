@@ -8,5 +8,5 @@
 
 <p><b>OverseenIO LTD</b>, a software company located in the United Kingdom</p>
 <p><b>Rune Software LLC</b>, a software company located in the United States</p>
-<p><b>Gamma Digital</b>, a freelancing company located in Slovenia</p>
+<p><b>Gamma Digital</b>, a freelancing sole proprietor located in Slovenia</p>
 
