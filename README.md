@@ -1,6 +1,6 @@
 <h2>itselviz, a fullstack developer.</h2>
 
-<b>Stack / JavaScript, Node, React, Express, Electron, Tailwind, Bootstrap, Next and Mongoose</b>
+JavaScript.js, Node.js, React.js, Express.js, Electron.js, Tailwind,css, Bootstrap.css, Next.js, MongoDB
 
 **Work with me / [Gamma Digital](https://discord.gg/5Ak6hVSDkS)**
 
