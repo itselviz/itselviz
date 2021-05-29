@@ -2,7 +2,7 @@
 
 <p>Proficient in JavaScript, Node, React, Express, Electron, Tailwind, Bootstrap, Next and Mongoose</p>
 
-**Work with me / [Gamma Digital](https://discord.gg/3fUgUAvFJj)**
+**Work with me / [Gamma Digital](https://discord.gg/5Ak6hVSDkS)**
 
 ## Workplaces
 
